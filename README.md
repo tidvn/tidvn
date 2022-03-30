@@ -61,13 +61,13 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://github.com/tidvn
+[course]: https://github.com/tidvn
+[twitter]: https://github.com/tidvn
+[youtube]: https://github.com/tidvn
+[instagram]: https://github.com/tidvn
+[linkedin]: https://github.com/tidvn
+[webdevplaylist]: https://github.com/tidvn
+[jsplaylist]: https://github.com/tidvn
+[cssplaylist]: https://github.com/tidvn
+[reactplaylist]: https://github.com/tidvn
