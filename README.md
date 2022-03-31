@@ -61,5 +61,5 @@
 
 </details>
 
-[Faceboọk]: https://www.facebook.com/TiDPR2.5/
+[Facebook]: https://www.facebook.com/TiDPR2.5/
 [Link]: https://github.com/tidvn
