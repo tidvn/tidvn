@@ -28,11 +28,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Việc đầu tiên khi sử dụng công nghệ mới](https://j2teamnnl.blogspot.com/2020/07/viec-au-tien-khi-su-dung-cong-nghe-moi.html)
-- [Lập trình viên có &quot;sướng&quot;?](https://j2teamnnl.blogspot.com/2020/03/lap-trinh-vien-co.html)
-- [Cái chết của chữ Đ](https://j2teamnnl.blogspot.com/2020/01/cai-chet-cua-chu.html)
-- [Bạn có đang lướt Facebook hiệu quả và khoa học?](https://j2teamnnl.blogspot.com/2019/08/ban-co-ang-luot-web-hieu-qua-va-khoa-hoc.html)
-- [Sau 1 vài ngày mất tích...](https://j2teamnnl.blogspot.com/2019/08/sau-1-vai-ngay-mat-tich.html)
+- [40 Nguồn ảnh miễn phí được sử dụng cho mục đích cá nhân và thương mại](http://blog.tidvn.tech/2021/05/40-nguon-anh-mien-phi-uoc-su-dung-cho.html)
+- [Cách chơi Among Us](http://blog.tidvn.tech/2021/02/cach-choi-among-us.html)
+- [7 Điều bạn không bao giờ nên làm vào buổi sáng](http://blog.tidvn.tech/2021/01/7-ieu-ban-khong-bao-gio-nen-lam-vao.html)
+- [Bài viết: &quot;Học Toán để làm gì?&quot; của một chuyên gia bảo mật hàng đầu Google gây bão mạng xã hội](http://blog.tidvn.tech/2020/06/bai-viet-hoc-toan-e-lam-gi-cua-mot.html)
+- [Khoảng cách thực tế giữa trái đất và mặt trăng là bao nhiêu](http://blog.tidvn.tech/2019/12/khoang-cach-thuc-te-giua-trai-at-va-mat.html)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.tidvn.tech)
 
