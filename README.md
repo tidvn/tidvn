@@ -1,14 +1,5 @@
 # Hi there, I'm Phung Tien Dung👋 
 
-- ☎ 03655.03654
-- 📧 Tiendung25322@gmail.com
-- 📍 Dong Da- Ha Noi
-- 📆 25/03/2002
-- 🌍 [Facebook](https://www.facebook.com/TiDPR2.5/) 
-
-
-## I'm a Developer !!
-
 - 🌱 I’m currently learning everything 🤣
 
 ## Some Skill
