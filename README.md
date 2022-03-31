@@ -1,8 +1,10 @@
 # Hi there, I'm Phung Tien Dung👋 
 
-- 🍁 I’m a student at a university in Hanoi
+- 🍁 I’m a coder from Hanoi
 - 🌱 I’m currently learning everything
-- 🔭 I want to be a programmer
+- 💬 Ask me about every thing
+- 📫 How to reach me: [Facebook]
+
 
 ## Some Skill
 
@@ -59,5 +61,5 @@
 
 </details>
 
-
+[faceboọ]: https://www.facebook.com/TiDPR2.5/
 [Link]: https://github.com/tidvn
