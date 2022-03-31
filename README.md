@@ -1,8 +1,8 @@
 # Hi there, I'm Phung Tien Dung👋 
 
-- 🔭 I’m a student at a university in Hanoi
+- 🍁 I’m a student at a university in Hanoi
 - 🌱 I’m currently learning everything
-- 📫 How to reach me: Facebook
+- 🔭 I want to be a programmer
 
 ## Some Skill
 
@@ -11,7 +11,7 @@
 [<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][Link]
 [<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][Link]
 [<img align="left" alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][Link]
-[<img align="left" alt="MySql" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="padding-right:10px;" />][Link]
+[<img align="left" alt="MySql" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/devicon-mysql-plain-wordmark.svg" style="padding-right:10px;" />][Link]
 [<img align="left" alt="Lavarel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />][Link]
 [<img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][Link]
 [<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][Link]
