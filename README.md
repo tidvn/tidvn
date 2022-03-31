@@ -1,10 +1,9 @@
 # Hi there, I'm Phung Tien Dung👋 
 
 - 🌱 I’m currently learning everything 🤣
-- 🔭 I’m currently working on J2TeamNNL
 - 💬 Ask me about every thing
 - 📫 How to reach me: Facebook
-- ⚡ Fun fact: I share... a lot!
+
 ## Some Skill
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
