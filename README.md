@@ -34,6 +34,7 @@
 - [Bạn có đang lướt Facebook hiệu quả và khoa học?](https://j2teamnnl.blogspot.com/2019/08/ban-co-ang-luot-web-hieu-qua-va-khoa-hoc.html)
 - [Sau 1 vài ngày mất tích...](https://j2teamnnl.blogspot.com/2019/08/sau-1-vai-ngay-mat-tich.html)
 <!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://blog.tidvn.tech)
 
 
 ---
