@@ -1,7 +1,7 @@
 # Hi there, I'm Phung Tien Dung👋 
 
-- 🌱 I’m currently learning everything 🤣
-- 💬 Ask me about every thing
+- 🔭 I’m a student at a university in Hanoi
+- 🌱 I’m currently learning everything
 - 📫 How to reach me: Facebook
 
 ## Some Skill
