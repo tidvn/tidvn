@@ -2,7 +2,6 @@
 
 - 🍁 I’m a coder from Hanoi
 - 🌱 I’m currently learning everything
-- 💬 Ask me about every thing
 - 📫 How to reach me: [Facebook]
 
 
