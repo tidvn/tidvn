@@ -34,7 +34,7 @@
 - [Bài viết: &quot;Học Toán để làm gì?&quot; của một chuyên gia bảo mật hàng đầu Google gây bão mạng xã hội](http://blog.tidvn.tech/2020/06/bai-viet-hoc-toan-e-lam-gi-cua-mot.html)
 - [Khoảng cách thực tế giữa trái đất và mặt trăng là bao nhiêu](http://blog.tidvn.tech/2019/12/khoang-cach-thuc-te-giua-trai-at-va-mat.html)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://blog.tidvn.tech)
+➡️ [more blog posts...](https://tidvn.blogspot.com/)
 
 
 ---
