@@ -36,7 +36,7 @@
 - [40 Nguồn ảnh miễn phí được sử dụng cho mục đích cá nhân và thương mại](https://tidvn.blogspot.com/2021/05/40-nguon-anh-mien-phi-uoc-su-dung-cho.html)
 - [Cách chơi Among Us](https://tidvn.blogspot.com/2021/02/cach-choi-among-us.html)
 - [7 Điều bạn không bao giờ nên làm vào buổi sáng](https://tidvn.blogspot.com/2021/01/7-ieu-ban-khong-bao-gio-nen-lam-vao.html)
-- [Bài viết: &quot;Học Toán để làm gì?&quot; của một chuyên gia bảo mật hàng đầu Google gây bão mạng xã hội](https://tidvn.blogspot.com/2020/06/bai-viet-hoc-toan-e-lam-gi-cua-mot.html)
+- [Bài viết: &quot;Học Toán để làm gì?&quot; của một chuyên gia bảo mật hàng đầu Google gây bão mạng xã hội](https://tidvn.blogspot.com/2020/06/bai-viet-toan-e-lam-gi-cua-mot-chuyen.html)
 - [Khoảng cách thực tế giữa trái đất và mặt trăng là bao nhiêu](https://tidvn.blogspot.com/2019/12/khoang-cach-thuc-te-giua-trai-at-va-mat.html)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://tidvn.blogspot.com/)
