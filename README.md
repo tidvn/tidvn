@@ -39,7 +39,7 @@
 - [3 DẤU HIỆU CHỨNG TỎ BẠN ĐÃ TÌM “ĐÚNG NGƯỜI”](https://tidvnz.blogspot.com/2022/05/3-dau-hieu-chung-to-ban-tim-ung-nguoi.html)
 - [Hướng dẫn tạo một con bot discord vô cùng xịn xò của riêng bạn Phần 2](https://tidvnz.blogspot.com/2022/04/huong-dan-tao-mot-con-bot-discord-vo_3.html)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://tidvn.blogspot.com/)
+➡️ [more blog posts...](https://tidvnz.blogspot.com/)
 
 ---
  ### GitHub Stats
