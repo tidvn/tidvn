@@ -33,11 +33,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cách Đăng Ký Tài Khoản ChatGPT Thành Công 100%](https://tidvnz.blogspot.com/2023/02/cach-ang-ky-tai-khoan-chatgpt-thanh.html)
-- [Nhận diện cử chỉ cánh tay để điều khiển cánh tay robot](https://tidvnz.blogspot.com/2022/06/nhan-dien-cu-chi-canh-tay-e-ieu-khien.html)
-- [Chạy Python trên trên Web Browser - Sự thay thế JavaScript trong tương lai ?](https://tidvnz.blogspot.com/2022/05/chay-python-tren-tren-web-browser-su.html)
-- [3 DẤU HIỆU CHỨNG TỎ BẠN ĐÃ TÌM “ĐÚNG NGƯỜI”](https://tidvnz.blogspot.com/2022/05/3-dau-hieu-chung-to-ban-tim-ung-nguoi.html)
-- [Hướng dẫn tạo một con bot discord vô cùng xịn xò của riêng bạn Phần 2](https://tidvnz.blogspot.com/2022/04/huong-dan-tao-mot-con-bot-discord-vo_3.html)
+- [Hành Trình Lịch Sử của Mật Mã Học: Từ Mật Mã Cổ Điển đến Mã Hoá Công Khai](http://www.dung.id.vn/2023/12/hanh-trinh-lich-su-cua-mat-ma-hoc-tu.html)
+- [Cách Đăng Ký Tài Khoản ChatGPT Thành Công 100%](http://www.dung.id.vn/2023/02/cach-ang-ky-tai-khoan-chatgpt-thanh.html)
+- [Nhận diện cử chỉ cánh tay để điều khiển cánh tay robot](http://www.dung.id.vn/2022/06/nhan-dien-cu-chi-canh-tay-e-ieu-khien.html)
+- [Chạy Python trên trên Web Browser - Sự thay thế JavaScript trong tương lai ?](http://www.dung.id.vn/2022/05/chay-python-tren-tren-web-browser-su.html)
+- [3 DẤU HIỆU CHỨNG TỎ BẠN ĐÃ TÌM “ĐÚNG NGƯỜI”](http://www.dung.id.vn/2022/05/3-dau-hieu-chung-to-ban-tim-ung-nguoi.html)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://tidvnz.blogspot.com/)
 
